@@ -1,0 +1,28 @@
+---
+title: "Probabilidade"
+format: revealjs
+editor: visual
+author: "Guilherme Biz"
+footer: "<gbiz@uel.br>" 
+code-fold: true
+---
+
+------------------------------------------------------------------------
+
+### Introdução
+
+<br>
+
+::: {style="text-align: justify;font-size: 0.8em;"}
+-   Até poucos séculos atrás, tudo que tivesse relação com o acaso era visto como intensão divina e, portanto, era considerado ímpio tentar analisar o "mecanismo do sobrenatural" por meio da matemática.
+
+    <br>
+
+-   A teoria da probabilidade começou a ser utilizada nos estudos das leis da natureza somente quando teve o pensamento científico com ênfase em observações e experimentação.
+
+    <br>
+
+-   **Experimentos aleatórios**: são experimentos que, quando repetidos em condições similares, dão resultados geralmente diferentes.
+:::
+
+------------------------------------------------------------------------
